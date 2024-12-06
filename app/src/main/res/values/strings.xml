@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="my_text0">Все наоборот</string>
+    <string name="my_text1">Второй текст</string>
+</resources>
